@@ -5,7 +5,7 @@ https://www.figma.com/file/v1hBXOGt6wG57rkAv0eYp8/Ignitelab?node-id=1%3A9&t=Fk45
 # Para rodar o projeto
 No terminal, para rodar o servidor execute:
 
-### `cd react-design-system`
+### `cd Aplication`
 ### `npm install`
 ### `npm run dev`
 
